@@ -1,0 +1,5 @@
+' VB6 logic for dynamically composing Oracle SQL filters
+' This file shows legacy VB6 logic used to dynamically generate Oracle SQL queries
+If txtFields(63).Text <> "" Then
+   SQL_CHEM_EXT = SQL_CHEM_EXT & " AND EC >=" & Val(txtFields(63).Text)
+End If
