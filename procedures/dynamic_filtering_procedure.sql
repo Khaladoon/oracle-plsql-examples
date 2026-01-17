@@ -1,3 +1,19 @@
+/*
+  Name: get_filtered_wells
+  Purpose:
+    Generic reusable procedure for dynamic filtering of well data
+    using optional scientific parameters.
+
+  Features:
+    - Dynamic SQL construction
+    - Optional filtering parameters
+    - Oracle performance-friendly bind variables
+    - Interface-agnostic result cursor
+
+  Author: Khaldoon Nseir
+*/
+
+
 CREATE OR REPLACE PROCEDURE get_filtered_wells (
     p_date_from   IN DATE,
     p_date_to     IN DATE,
