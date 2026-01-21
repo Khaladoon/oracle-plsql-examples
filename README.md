@@ -48,6 +48,15 @@ They were originally part of larger systems developed in **Oracle, integrated wi
 - Table and column names are adapted for clarity
 - No confidential or proprietary data is included
 
+  Selected Projects & Portfolio
+
+Oracle PL/SQL Examples
+- Collection of advanced Oracle PL/SQL scripts including procedures, functions,
+  packages, and complex SQL queries.
+- Focused on real-world data processing, validation, and performance optimization.
+- Demonstrates strong database design
+
+
 ---
 
 ## 👤 Author
