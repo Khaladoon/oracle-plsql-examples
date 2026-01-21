@@ -48,6 +48,14 @@ They were originally part of larger systems developed in **Oracle, integrated wi
 - Table and column names are adapted for clarity
 - No confidential or proprietary data is included
 
+
+---
+
+## 👤 Author
+**Khaldoon Nseir**  
+Senior Database Developer  
+Oracle | SQL Server | Legacy Systems
+
   Selected Projects & Portfolio
 
 Oracle PL/SQL Examples
@@ -56,10 +64,3 @@ Oracle PL/SQL Examples
 - Focused on real-world data processing, validation, and performance optimization.
 - Demonstrates strong database design
 
-
----
-
-## 👤 Author
-**Khaldoon Nseir**  
-Senior Database Developer  
-Oracle | SQL Server | Legacy Systems
